@@ -27,7 +27,3 @@ El diseño del juego incluirá la implementación de una estrategia de planifica
 ### Dónde estará
 
 Presentarás y defenderás tu proyecto en una máquina virtual con sistema operativo Arch Linux, demostrando tu comprensión y habilidades en un entorno de desarrollo coherente. Deberás ubicar el ejecutable de tu juego con los binarios del sistema. Este se debe ejecutar al escribir MatComInvasion en la consola.
-
-
-
-# MatCom-Invasion
